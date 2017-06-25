@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="2" verbose="2" name="Failed suite [NewTours_Suite]" parallel="methods">
+  <parameter name="no_of_sections" value="7"/>
+  <parameter name="websiteURL" value="http://newtours.demoaut.com/"/>
+  <parameter name="excelPath" value="C:\\new.xls"/>
+  <test name="Sanity(failed)" parallel="methods">
+    <classes>
+      <class name="test.HomePageTest">
+        <methods>
+          <include name="closeBrowser"/>
+          <include name="checkHomePageSections" invocation-numbers="0"/>
+          <include name="tearDown"/>
+          <include name="launchBrowser"/>
+          <include name="navigateToHomePage"/>
+          <include name="Start_Engine"/>
+        </methods>
+      </class> <!-- test.HomePageTest -->
+    </classes>
+  </test> <!-- Sanity(failed) -->
+</suite> <!-- Failed suite [NewTours_Suite] -->

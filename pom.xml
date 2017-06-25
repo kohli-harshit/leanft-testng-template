@@ -1,0 +1,161 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+
+    <modelVersion>4.0.0</modelVersion>
+    <groupId>com.l2a</groupId>
+    <artifactId>testng-template</artifactId>
+    <version>0.0.1</version>
+    <packaging>jar</packaging>
+    <name>Learn2Automate - TestNG</name>
+    <description></description>
+
+    <dependencies>
+        
+        <dependency>
+            <groupId>com.hp.lft</groupId>
+            <artifactId>sdk</artifactId>
+            <version>14.0.0</version>
+            <scope>system</scope>
+            <systemPath>C:/Users/leanft/.m2/repository/com/hp/lft/sdk/14.0.0/sdk-14.0.0.jar</systemPath>
+        </dependency>
+
+        <dependency>
+            <groupId>com.hp.lft</groupId>
+            <artifactId>report</artifactId>
+            <version>14.0.0</version>
+            <scope>system</scope>
+            <systemPath>C:/Users/leanft/.m2/repository/com/hp/lft/report/14.0.0/report-14.0.0.jar</systemPath>
+        </dependency>
+
+        <dependency>
+            <groupId>com.hp.lft</groupId>
+            <artifactId>unittesting</artifactId>
+            <version>14.0.0</version>
+            <scope>system</scope>
+            <systemPath>C:/Users/leanft/.m2/repository/com/hp/lft/unittesting/14.0.0/unittesting-14.0.0.jar</systemPath>
+        </dependency>
+
+        <dependency>
+            <groupId>com.hp.lft</groupId>
+            <artifactId>verifications</artifactId>
+            <version>14.0.0</version>
+            <scope>system</scope>
+            <systemPath>C:/Users/leanft/.m2/repository/com/hp/lft/verifications/14.0.0/verifications-14.0.0.jar</systemPath>
+        </dependency>
+        
+        <dependency>
+            <groupId>org.testng</groupId>
+            <artifactId>testng</artifactId>
+            <version>6.11</version>
+        </dependency>
+        
+        <dependency>
+			<groupId>log4j</groupId>
+			<artifactId>log4j</artifactId>
+			<version>1.2.17</version>
+		</dependency>
+
+		<dependency>
+			<groupId>org.apache.poi</groupId>
+			<artifactId>poi</artifactId>
+			<version>RELEASE</version>
+		</dependency>
+		
+		<dependency>
+			<groupId>com.opencsv</groupId>
+			<artifactId>opencsv</artifactId>
+			<version>3.9</version>
+		</dependency>
+        
+    </dependencies>
+
+    <repositories>
+    <!--<repository>
+            <id>Your repository's ID</id>
+            <name>Your repository's name</name>
+            <url>URL of the repository containing the LeanFT jar files</url>
+        </repository>-->
+    </repositories>
+
+    <build>
+        <plugins>
+            <plugin>
+                <groupId>org.apache.maven.plugins</groupId>
+                <artifactId>maven-compiler-plugin</artifactId>
+                <configuration>
+                    <source>1.7</source>
+                    <target>1.7</target>
+                </configuration>
+            </plugin>
+            
+            <plugin>
+                <groupId>org.codehaus.mojo</groupId>
+                <artifactId>build-helper-maven-plugin</artifactId>
+                <version>1.10</version>
+                <executions>
+                    <execution>
+                        <id>add-source</id>
+                        <phase>generate-sources</phase>
+                        <goals>
+                            <goal>add-source</goal>
+                        </goals>
+                        <configuration>
+                            <sources>
+                                <source>appmodels</source>
+                            </sources>
+                        </configuration>
+                    </execution>
+                </executions>
+            </plugin>
+            <plugin>
+          			<groupId>org.apache.maven.plugins</groupId>
+          			<artifactId>maven-surefire-plugin</artifactId>
+          			<version>2.14.1</version>
+          			<configuration>
+        				<forkMode>never</forkMode>
+        				
+        				<suiteXmlFiles>
+                        	<suiteXmlFile>testng.xml</suiteXmlFile>                        
+                    	</suiteXmlFiles>
+      					<additionalClasspathElements>
+      						<additionalClasspathElement>C:\Program Files (x86)\HP\LeanFT\SDK\Java\com.hp.lft.reportbuilder-standalone.jar</additionalClasspathElement>
+      					</additionalClasspathElements>          				
+        			</configuration>
+        		</plugin>
+        </plugins>
+        <pluginManagement>
+        	<plugins>
+        		<!--This plugin's configuration is used to store Eclipse m2e settings only. It has no influence on the Maven build itself.-->
+        		<plugin>
+        			<groupId>org.eclipse.m2e</groupId>
+        			<artifactId>lifecycle-mapping</artifactId>
+        			<version>1.0.0</version>
+        			<configuration>
+        				<lifecycleMappingMetadata>
+        					<pluginExecutions>
+        						<pluginExecution>
+        							<pluginExecutionFilter>
+        								<groupId>
+        									org.codehaus.mojo
+        								</groupId>
+        								<artifactId>
+        									build-helper-maven-plugin
+        								</artifactId>
+        								<versionRange>
+        									[1.10,)
+        								</versionRange>
+        								<goals>
+        									<goal>add-source</goal>
+        								</goals>
+        							</pluginExecutionFilter>
+        							<action>
+        								<ignore></ignore>
+        							</action>
+        						</pluginExecution>
+        					</pluginExecutions>
+        				</lifecycleMappingMetadata>
+        			</configuration>
+        		</plugin>
+        	</plugins>
+        </pluginManagement>
+    </build>
+</project>

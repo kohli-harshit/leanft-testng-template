@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="NewTours_Suite" duration-ms="43895" started-at="2017-06-25T16:06:51Z" finished-at="2017-06-25T16:07:35Z">
+    <groups>
+      <group name="Regression">
+        <method signature="HomePageTest.checkHomePageSections()[pri:0, instance:test.HomePageTest@56ef9176]" name="checkHomePageSections" class="test.HomePageTest"/>
+        <method signature="HomePageTest.checkSpecials()[pri:1, instance:test.HomePageTest@56ef9176]" name="checkSpecials" class="test.HomePageTest"/>
+        <method signature="HomePageTest.testLogin(int, java.util.Map)[pri:0, instance:test.HomePageTest@56ef9176]" name="testLogin" class="test.HomePageTest"/>
+      </group> <!-- Regression -->
+      <group name="Smoke">
+        <method signature="HomePageTest.checkHomePageSections()[pri:0, instance:test.HomePageTest@56ef9176]" name="checkHomePageSections" class="test.HomePageTest"/>
+        <method signature="HomePageTest.testLogin(int, java.util.Map)[pri:0, instance:test.HomePageTest@56ef9176]" name="testLogin" class="test.HomePageTest"/>
+      </group> <!-- Smoke -->
+    </groups>
+    <test name="Sanity" duration-ms="43895" started-at="2017-06-25T16:06:51Z" finished-at="2017-06-25T16:07:35Z">
+      <class name="test.HomePageTest">
+        <test-method status="PASS" signature="Start_Engine()[pri:0, instance:test.HomePageTest@56ef9176]" name="Start_Engine" is-config="true" duration-ms="954" started-at="2017-06-25T21:36:50Z" finished-at="2017-06-25T21:36:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Start_Engine -->
+        <test-method status="PASS" signature="launchBrowser()[pri:0, instance:test.HomePageTest@56ef9176]" name="launchBrowser" is-config="true" duration-ms="3013" started-at="2017-06-25T21:36:51Z" finished-at="2017-06-25T21:36:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method status="PASS" signature="navigateToHomePage()[pri:0, instance:test.HomePageTest@56ef9176]" name="navigateToHomePage" is-config="true" duration-ms="98" started-at="2017-06-25T21:36:54Z" finished-at="2017-06-25T21:36:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigateToHomePage -->
+        <test-method status="PASS" signature="checkHomePageSections()[pri:0, instance:test.HomePageTest@56ef9176]" name="checkHomePageSections" duration-ms="10031" started-at="2017-06-25T21:36:54Z" finished-at="2017-06-25T21:37:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkHomePageSections -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:test.HomePageTest@56ef9176]" name="closeBrowser" is-config="true" duration-ms="133" started-at="2017-06-25T21:37:04Z" finished-at="2017-06-25T21:37:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method status="PASS" signature="launchBrowser()[pri:0, instance:test.HomePageTest@56ef9176]" name="launchBrowser" is-config="true" duration-ms="4010" started-at="2017-06-25T21:37:04Z" finished-at="2017-06-25T21:37:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method status="PASS" signature="navigateToHomePage()[pri:0, instance:test.HomePageTest@56ef9176]" name="navigateToHomePage" is-config="true" duration-ms="127" started-at="2017-06-25T21:37:08Z" finished-at="2017-06-25T21:37:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigateToHomePage -->
+        <test-method status="PASS" signature="testLogin(int, java.util.Map)[pri:0, instance:test.HomePageTest@56ef9176]" name="testLogin" duration-ms="7816" started-at="2017-06-25T21:37:08Z" data-provider="dataproviderForTestCase" finished-at="2017-06-25T21:37:16Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[0]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[{password=tutorial, username=tutorial}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLogin -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:test.HomePageTest@56ef9176]" name="closeBrowser" is-config="true" duration-ms="137" started-at="2017-06-25T21:37:16Z" finished-at="2017-06-25T21:37:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method status="PASS" signature="launchBrowser()[pri:0, instance:test.HomePageTest@56ef9176]" name="launchBrowser" is-config="true" duration-ms="4789" started-at="2017-06-25T21:37:16Z" finished-at="2017-06-25T21:37:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method status="PASS" signature="navigateToHomePage()[pri:0, instance:test.HomePageTest@56ef9176]" name="navigateToHomePage" is-config="true" duration-ms="104" started-at="2017-06-25T21:37:21Z" finished-at="2017-06-25T21:37:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigateToHomePage -->
+        <test-method status="PASS" signature="testLogin(int, java.util.Map)[pri:0, instance:test.HomePageTest@56ef9176]" name="testLogin" duration-ms="5178" started-at="2017-06-25T21:37:21Z" data-provider="dataproviderForTestCase" finished-at="2017-06-25T21:37:26Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[1]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[{password=leanft, username=leanft}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLogin -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:test.HomePageTest@56ef9176]" name="closeBrowser" is-config="true" duration-ms="121" started-at="2017-06-25T21:37:26Z" finished-at="2017-06-25T21:37:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method status="PASS" signature="launchBrowser()[pri:0, instance:test.HomePageTest@56ef9176]" name="launchBrowser" is-config="true" duration-ms="3312" started-at="2017-06-25T21:37:26Z" finished-at="2017-06-25T21:37:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method status="PASS" signature="navigateToHomePage()[pri:0, instance:test.HomePageTest@56ef9176]" name="navigateToHomePage" is-config="true" duration-ms="138" started-at="2017-06-25T21:37:30Z" finished-at="2017-06-25T21:37:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigateToHomePage -->
+        <test-method status="PASS" signature="checkSpecials()[pri:1, instance:test.HomePageTest@56ef9176]" name="checkSpecials" duration-ms="4693" started-at="2017-06-25T21:37:30Z" finished-at="2017-06-25T21:37:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkSpecials -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:test.HomePageTest@56ef9176]" name="closeBrowser" is-config="true" duration-ms="111" started-at="2017-06-25T21:37:34Z" finished-at="2017-06-25T21:37:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:test.HomePageTest@56ef9176]" name="tearDown" is-config="true" duration-ms="1861" started-at="2017-06-25T21:37:35Z" finished-at="2017-06-25T21:37:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- test.HomePageTest -->
+    </test> <!-- Sanity -->
+  </suite> <!-- NewTours_Suite -->
+</testng-results>
