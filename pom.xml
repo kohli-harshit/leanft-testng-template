@@ -15,7 +15,7 @@
             <artifactId>sdk</artifactId>
             <version>14.0.0</version>
             <scope>system</scope>
-            <systemPath>C:/Users/leanft/.m2/repository/com/hp/lft/sdk/14.0.0/sdk-14.0.0.jar</systemPath>
+            <systemPath>C:/Program Files (x86)/HP/LeanFT/SDK/Java/com.hp.lft.sdk-standalone.jar</systemPath>
         </dependency>
 
         <dependency>
@@ -23,7 +23,7 @@
             <artifactId>report</artifactId>
             <version>14.0.0</version>
             <scope>system</scope>
-            <systemPath>C:/Users/leanft/.m2/repository/com/hp/lft/report/14.0.0/report-14.0.0.jar</systemPath>
+            <systemPath>C:/Program Files (x86)/HP/LeanFT/SDK/Java/com.hp.lft.report.jar</systemPath>
         </dependency>
 
         <dependency>
@@ -31,7 +31,7 @@
             <artifactId>unittesting</artifactId>
             <version>14.0.0</version>
             <scope>system</scope>
-            <systemPath>C:/Users/leanft/.m2/repository/com/hp/lft/unittesting/14.0.0/unittesting-14.0.0.jar</systemPath>
+            <systemPath>C:/Program Files (x86)/HP/LeanFT/SDK/Java/com.hp.lft.unittesting.jar</systemPath>
         </dependency>
 
         <dependency>
@@ -39,7 +39,7 @@
             <artifactId>verifications</artifactId>
             <version>14.0.0</version>
             <scope>system</scope>
-            <systemPath>C:/Users/leanft/.m2/repository/com/hp/lft/verifications/14.0.0/verifications-14.0.0.jar</systemPath>
+            <systemPath>C:/Program Files (x86)/HP/LeanFT/SDK/Java/com.hp.lft.verifications</systemPath>
         </dependency>
         
         <dependency>
