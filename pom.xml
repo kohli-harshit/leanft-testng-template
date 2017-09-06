@@ -39,7 +39,7 @@
             <artifactId>verifications</artifactId>
             <version>14.0.0</version>
             <scope>system</scope>
-            <systemPath>C:/Program Files (x86)/HP/LeanFT/SDK/Java/com.hp.lft.verifications</systemPath>
+            <systemPath>C:/Program Files (x86)/HP/LeanFT/SDK/Java/com.hp.lft.verifications.jar</systemPath>
         </dependency>
         
         <dependency>
