@@ -13,33 +13,33 @@
         <dependency>
             <groupId>com.hp.lft</groupId>
             <artifactId>sdk</artifactId>
-            <version>14.0.0</version>
+            <version>14.3</version>
             <scope>system</scope>
-            <systemPath>C:/Program Files (x86)/HP/LeanFT/SDK/Java/com.hp.lft.sdk-standalone.jar</systemPath>
+            <systemPath>C:/Program Files (x86)/HPE/LeanFT/SDK/Java/com.hp.lft.sdk-standalone.jar</systemPath>
         </dependency>
 
         <dependency>
             <groupId>com.hp.lft</groupId>
             <artifactId>report</artifactId>
-            <version>14.0.0</version>
+            <version>14.3</version>
             <scope>system</scope>
-            <systemPath>C:/Program Files (x86)/HP/LeanFT/SDK/Java/com.hp.lft.report.jar</systemPath>
+            <systemPath>C:/Program Files (x86)/HPE/LeanFT/SDK/Java/com.hp.lft.report.jar</systemPath>
         </dependency>
 
         <dependency>
             <groupId>com.hp.lft</groupId>
             <artifactId>unittesting</artifactId>
-            <version>14.0.0</version>
+            <version>14.3</version>
             <scope>system</scope>
-            <systemPath>C:/Program Files (x86)/HP/LeanFT/SDK/Java/com.hp.lft.unittesting.jar</systemPath>
+            <systemPath>C:/Program Files (x86)/HPE/LeanFT/SDK/Java/com.hp.lft.unittesting.jar</systemPath>
         </dependency>
 
         <dependency>
             <groupId>com.hp.lft</groupId>
             <artifactId>verifications</artifactId>
-            <version>14.0.0</version>
+            <version>14.3</version>
             <scope>system</scope>
-            <systemPath>C:/Program Files (x86)/HP/LeanFT/SDK/Java/com.hp.lft.verifications.jar</systemPath>
+            <systemPath>C:/Program Files (x86)/HPE/LeanFT/SDK/Java/com.hp.lft.verifications.jar</systemPath>
         </dependency>
         
         <dependency>
@@ -86,26 +86,8 @@
                     <target>1.7</target>
                 </configuration>
             </plugin>
-            
-            <plugin>
-                <groupId>org.codehaus.mojo</groupId>
-                <artifactId>build-helper-maven-plugin</artifactId>
-                <version>1.10</version>
-                <executions>
-                    <execution>
-                        <id>add-source</id>
-                        <phase>generate-sources</phase>
-                        <goals>
-                            <goal>add-source</goal>
-                        </goals>
-                        <configuration>
-                            <sources>
-                                <source>appmodels</source>
-                            </sources>
-                        </configuration>
-                    </execution>
-                </executions>
-            </plugin>
+
+
             <plugin>
           			<groupId>org.apache.maven.plugins</groupId>
           			<artifactId>maven-surefire-plugin</artifactId>
