@@ -28,13 +28,14 @@ public class HomePageTest extends BaseTest{
 	{
 		try
 		{
-			HomePage HP = new HomePage(browser, logger);
+			HomePage HP = new HomePage(browser);
 			HP.login(inputDataMap.get("username"),inputDataMap.get("password"));
 			Assert.assertTrue(HP.isLoggedIn(), "Login should be successfull");
+			HP.logOut();
 		}
 		catch(Exception ex)
 		{
-			ex.printStackTrace();
+			logger.error(ex);
 			Assert.fail(ex.getMessage());
 		}		
 	}
@@ -46,7 +47,7 @@ public class HomePageTest extends BaseTest{
 		try
 		{
 			//Declare Page Object
-			HomePage HP = new HomePage(browser,logger);		
+			HomePage HP = new HomePage(browser);
 
 			//Check that the Home Page is present
 			Assert.assertTrue(HP.checkHomePageExists());
@@ -55,8 +56,8 @@ public class HomePageTest extends BaseTest{
 			Assert.assertTrue(HP.getSectionCount()>=Integer.parseInt(PropertiesManager.getProperty("no_of_sections")));
 		}
 		catch(Exception ex)
-		{	
-			ex.printStackTrace();
+		{
+			logger.error(ex);
 			Assert.fail(ex.getMessage());
 		}
 	}
@@ -68,7 +69,7 @@ public class HomePageTest extends BaseTest{
 		try
 		{
 			//Declare Page Object
-			HomePage HP = new HomePage(browser,logger);		
+			HomePage HP = new HomePage(browser);
 
 			//Check that the Specials Section is saved inside an Excel File
 			Assert.assertTrue(HP.saveSpecials(PropertiesManager.getProperty("excelPath")));
@@ -76,7 +77,7 @@ public class HomePageTest extends BaseTest{
 		}
 		catch(Exception ex)
 		{
-			ex.printStackTrace();
+			logger.error(ex);
 			Assert.fail(ex.getMessage());
 		}
 	}

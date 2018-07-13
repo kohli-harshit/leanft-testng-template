@@ -19,11 +19,13 @@ import com.hp.lft.sdk.web.WebElement;
 import com.hp.lft.sdk.web.WebElementDescription;
 
 public class SelectFlight extends BasePage {
-	
+
+	final static Logger logger = Logger.getLogger(HomePage.class);
+
 	//Parameterized Constructor
-	public SelectFlight(Browser browser,Logger logger)
+	public SelectFlight(Browser browser)
 	{
-		super(browser,logger);
+		super(browser);
 	}
 	
 	//The Select Flight Image

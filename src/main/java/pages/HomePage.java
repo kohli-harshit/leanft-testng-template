@@ -27,9 +27,11 @@ import com.hp.lft.sdk.web.WebElement;
 import com.hp.lft.sdk.web.XPathDescription;
 
 public class HomePage extends BasePage {
-		
-	public HomePage(Browser browser, Logger logger) {
-		super(browser, logger);		
+
+	final static Logger logger = Logger.getLogger(HomePage.class);
+
+	public HomePage(Browser browser) {
+		super(browser);
 	}
 
 	//Sign On Link

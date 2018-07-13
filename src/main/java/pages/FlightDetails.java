@@ -6,11 +6,13 @@ import com.hp.lft.sdk.*;
 import com.hp.lft.sdk.web.*;
 
 public class FlightDetails extends BasePage{
-	
+
+	final static Logger logger = Logger.getLogger(HomePage.class);
+
 	//Parameterized Constructor
 	public FlightDetails(Browser browser,Logger logger)
 	{
-		super(browser,logger);
+		super(browser);
 	}	
 	
 	//Flight Finder Image
@@ -77,6 +79,4 @@ public class FlightDetails extends BasePage{
 	{
 		browser.describe(Image.class,img_Continue).click();
 	}
-		
-	
 }

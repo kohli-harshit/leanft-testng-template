@@ -8,12 +8,10 @@ public class BasePage {
 
 	//The Browser instance that will be acted upon
 	protected Browser browser;
-	protected Logger logger;
 	
 	//Parameterized Constructor
-	public BasePage(Browser browser,Logger logger)
+	public BasePage(Browser browser)
 	{
 		this.browser = browser;
-		this.logger = logger;
 	}
 }

@@ -1,7 +1,7 @@
 <Results>
     <GeneralInfo>
         <Name/>
-        <RunStartTime>2017-06-25 21:40:59</RunStartTime>
+        <RunStartTime>2018-07-13 20:40:16</RunStartTime>
         <Timezone>India Standard Time</Timezone>
         <OrchestrationToolName>JUnit</OrchestrationToolName>
         <OrchestrationToolVersion/>
@@ -11,10 +11,10 @@
         <Data>
             <Name>Run Results</Name>
             <Description><![CDATA[ ]]></Description>
-            <StartTime>2017-06-25 21:40:59</StartTime>
+            <StartTime>2018-07-13 20:40:16</StartTime>
             <Result>Passed</Result>
             <Links/>
-            <Duration>41</Duration>
+            <Duration><![CDATA[00:00:40.579]]></Duration>
             <Extension>
                 <Any>
                     <IconKey>Run</IconKey>
@@ -22,41 +22,41 @@
                 </Any>
             </Extension>
             <Environment>
-                <OSInfo><![CDATA[Microsoft Windows NT 6.1.7601 Service Pack 1]]></OSInfo>
-                <HostName><![CDATA[LEANFT-PC]]></HostName>
-                <NumberOfCores>1</NumberOfCores>
+                <OSInfo><![CDATA[Microsoft Windows NT 6.2.9200.0]]></OSInfo>
+                <HostName><![CDATA[LAPTOP-C0SONI42]]></HostName>
+                <NumberOfCores>4</NumberOfCores>
                 <CpuInfo/>
-                <TotalMemory>2047</TotalMemory>
-                <Locale><![CDATA[en-US]]></Locale>
+                <TotalMemory>16258</TotalMemory>
+                <Locale><![CDATA[en-IN]]></Locale>
                 <Timezone>India Standard Time</Timezone>
-                <User>leanft</User>
+                <User>kohli</User>
             </Environment>
             <TestedApplication/>
             <ToolName>LeanFT</ToolName>
-            <ToolVersion><![CDATA[14.0]]></ToolVersion>
+            <ToolVersion><![CDATA[14.03]]></ToolVersion>
         </Data>
         <ReportNode type="Step">
             <Data>
                 <Name><![CDATA[Browser.launch]]></Name>
-                <Description><![CDATA[<style>.ex-table{border-collapse: collapse !important;width: auto;height: auto;}.ex-table,.ex-table tr,.ex-table td{border: 1px solid #c6c6c6;}.ex-table td{padding: 5px 10px;vertical-align: top;width: auto;}.ex-table .ex-name{font-size: 13px;font-weight: bold;background-color: #f3f3f3;white-space: nowrap;}.ex-table .ex-value{color: #5a5a5a;}</style><table class='ex-table'><tr><td class='ex-name'>arg0</td><td class='ex-value'>&quot;FIREFOX&quot;</td></tr></table>]]></Description>
-                <StartTime>2017-06-25 21:40:59</StartTime>
+                <Description><![CDATA[<style>.ex-table{border-collapse: collapse !important;width: auto;height: auto;}.ex-table,.ex-table tr,.ex-table td{border: 1px solid #c6c6c6;}.ex-table td{padding: 5px 10px;vertical-align: top;width: auto;}.ex-table .ex-name{font-size: 13px;font-weight: bold;background-color: #f3f3f3;white-space: nowrap;}.ex-table .ex-value{color: #5a5a5a;}</style><table class='ex-table'><tr><td class='ex-name'>arg0</td><td class='ex-value'>CHROME</td></tr></table><style>.ex-table{border-collapse: collapse !important;width: auto;height: auto;}.ex-table,.ex-table tr,.ex-table td{border: 1px solid #c6c6c6;}.ex-table td{padding: 5px 10px;vertical-align: top;width: auto;}.ex-table .ex-name{font-size: 13px;font-weight: bold;background-color: #f3f3f3;white-space: nowrap;}.ex-table .ex-value{color: #5a5a5a;}</style><p><div class=data-label><hr><b>Browser Information</b></div> </p><style>.ex-table{border-collapse: collapse !important;width: auto;height: auto;}.ex-table,.ex-table tr,.ex-table td{border: 1px solid #c6c6c6;}.ex-table td{padding: 5px 10px;vertical-align: top;width: auto;}.ex-table .ex-name{font-size: 13px;font-weight: bold;background-color: #f3f3f3;white-space: nowrap;}.ex-table .ex-value{color: #5a5a5a;}</style><table class='ex-table'><tr><td class='ex-name'>type</td><td class='ex-value'>Chrome</td></tr><tr><td class='ex-name'>version</td><td class='ex-value'>67.0</td></tr></table>]]></Description>
+                <StartTime>2018-07-13 20:40:16</StartTime>
                 <Result>Passed</Result>
                 <Links/>
-                <Duration>0</Duration>
+                <Duration><![CDATA[00:00:00.000]]></Duration>
                 <Extension>
                     <Any>
                         <TestObject>
                             <Path/>
                             <Operation>launch</Operation>
-                            <OperationData><![CDATA[<style>.ex-table{border-collapse: collapse !important;width: auto;height: auto;}.ex-table,.ex-table tr,.ex-table td{border: 1px solid #c6c6c6;}.ex-table td{padding: 5px 10px;vertical-align: top;width: auto;}.ex-table .ex-name{font-size: 13px;font-weight: bold;background-color: #f3f3f3;white-space: nowrap;}.ex-table .ex-value{color: #5a5a5a;}</style><table class='ex-table'><tr><td class='ex-name'>arg0</td><td class='ex-value'>&quot;FIREFOX&quot;</td></tr></table>]]></OperationData>
+                            <OperationData><![CDATA[<style>.ex-table{border-collapse: collapse !important;width: auto;height: auto;}.ex-table,.ex-table tr,.ex-table td{border: 1px solid #c6c6c6;}.ex-table td{padding: 5px 10px;vertical-align: top;width: auto;}.ex-table .ex-name{font-size: 13px;font-weight: bold;background-color: #f3f3f3;white-space: nowrap;}.ex-table .ex-value{color: #5a5a5a;}</style><table class='ex-table'><tr><td class='ex-name'>arg0</td><td class='ex-value'>CHROME</td></tr></table><style>.ex-table{border-collapse: collapse !important;width: auto;height: auto;}.ex-table,.ex-table tr,.ex-table td{border: 1px solid #c6c6c6;}.ex-table td{padding: 5px 10px;vertical-align: top;width: auto;}.ex-table .ex-name{font-size: 13px;font-weight: bold;background-color: #f3f3f3;white-space: nowrap;}.ex-table .ex-value{color: #5a5a5a;}</style><p><div class=data-label><hr><b>Browser Information</b></div> </p><style>.ex-table{border-collapse: collapse !important;width: auto;height: auto;}.ex-table,.ex-table tr,.ex-table td{border: 1px solid #c6c6c6;}.ex-table td{padding: 5px 10px;vertical-align: top;width: auto;}.ex-table .ex-name{font-size: 13px;font-weight: bold;background-color: #f3f3f3;white-space: nowrap;}.ex-table .ex-value{color: #5a5a5a;}</style><table class='ex-table'><tr><td class='ex-name'>type</td><td class='ex-value'>Chrome</td></tr><tr><td class='ex-name'>version</td><td class='ex-value'>67.0</td></tr></table>]]></OperationData>
                             <Properties/>
                         </TestObject>
                         <IsHtmlErrorText>true</IsHtmlErrorText>
                         <IconKey>Browser</IconKey>
                         <CustomUIElements>
                             <DescriptionLabel>Data</DescriptionLabel>
-                            <FlowTreeNodeCaption><![CDATA[Browser.<span class='emphasis'>launch("Firefox")</span>]]></FlowTreeNodeCaption>
-                            <FlowTreeNodeTooltip><![CDATA[Browser.launch("Firefox")]]></FlowTreeNodeTooltip>
+                            <FlowTreeNodeCaption><![CDATA[Browser.<span class='emphasis'>launch("Chrome")</span>]]></FlowTreeNodeCaption>
+                            <FlowTreeNodeTooltip><![CDATA[Browser.launch("Chrome")]]></FlowTreeNodeTooltip>
                         </CustomUIElements>
                         <HideContextInfo>true</HideContextInfo>
                     </Any>
@@ -65,31 +65,31 @@
         </ReportNode>
         <ReportNode type="Step">
             <Data>
-                <Name><![CDATA[Mozilla Firefox Start Page.navigate]]></Name>
-                <Description><![CDATA[<style>.ex-table{border-collapse: collapse !important;width: auto;height: auto;}.ex-table,.ex-table tr,.ex-table td{border: 1px solid #c6c6c6;}.ex-table td{padding: 5px 10px;vertical-align: top;width: auto;}.ex-table .ex-name{font-size: 13px;font-weight: bold;background-color: #f3f3f3;white-space: nowrap;}.ex-table .ex-value{color: #5a5a5a;}</style><table class='ex-table'><tr><td class='ex-name'>arg0</td><td class='ex-value'>&quot;http://newtours.demoaut.com&quot;</td></tr></table>]]></Description>
-                <StartTime>2017-06-25 21:41:02</StartTime>
+                <Name><![CDATA[[Browser].navigate]]></Name>
+                <Description><![CDATA[<style>.ex-table{border-collapse: collapse !important;width: auto;height: auto;}.ex-table,.ex-table tr,.ex-table td{border: 1px solid #c6c6c6;}.ex-table td{padding: 5px 10px;vertical-align: top;width: auto;}.ex-table .ex-name{font-size: 13px;font-weight: bold;background-color: #f3f3f3;white-space: nowrap;}.ex-table .ex-value{color: #5a5a5a;}</style><table class='ex-table'><tr><td class='ex-name'>arg0</td><td class='ex-value'>http://newtours.demoaut.com</td></tr></table>]]></Description>
+                <StartTime>2018-07-13 20:40:17</StartTime>
                 <Result>Passed</Result>
                 <Links/>
-                <Duration>1</Duration>
+                <Duration><![CDATA[00:00:00.033]]></Duration>
                 <Extension>
                     <Any>
                         <TestObject>
                             <Path>
                                 <Object>
                                     <Type>Web.Browser</Type>
-                                    <Name><![CDATA[Mozilla Firefox Start Page]]></Name>
+                                    <Name><![CDATA[[Browser]]]></Name>
                                 </Object>
                             </Path>
                             <Operation>navigate</Operation>
-                            <OperationData><![CDATA[<style>.ex-table{border-collapse: collapse !important;width: auto;height: auto;}.ex-table,.ex-table tr,.ex-table td{border: 1px solid #c6c6c6;}.ex-table td{padding: 5px 10px;vertical-align: top;width: auto;}.ex-table .ex-name{font-size: 13px;font-weight: bold;background-color: #f3f3f3;white-space: nowrap;}.ex-table .ex-value{color: #5a5a5a;}</style><table class='ex-table'><tr><td class='ex-name'>arg0</td><td class='ex-value'>&quot;http://newtours.demoaut.com&quot;</td></tr></table>]]></OperationData>
+                            <OperationData><![CDATA[<style>.ex-table{border-collapse: collapse !important;width: auto;height: auto;}.ex-table,.ex-table tr,.ex-table td{border: 1px solid #c6c6c6;}.ex-table td{padding: 5px 10px;vertical-align: top;width: auto;}.ex-table .ex-name{font-size: 13px;font-weight: bold;background-color: #f3f3f3;white-space: nowrap;}.ex-table .ex-value{color: #5a5a5a;}</style><table class='ex-table'><tr><td class='ex-name'>arg0</td><td class='ex-value'>http://newtours.demoaut.com</td></tr></table>]]></OperationData>
                             <Properties>
                                 <Property>
                                     <Name><![CDATA[type]]></Name>
-                                    <Value><![CDATA[Mozilla Firefox]]></Value>
+                                    <Value><![CDATA[Chrome]]></Value>
                                 </Property>
                                 <Property>
                                     <Name><![CDATA[version]]></Name>
-                                    <Value><![CDATA[54.0]]></Value>
+                                    <Value><![CDATA[67.0]]></Value>
                                 </Property>
                             </Properties>
                         </TestObject>
@@ -103,7 +103,7 @@
                                 <Path>
                                     <Object>
                                         <Type>Web.Browser</Type>
-                                        <Name><![CDATA[Mozilla Firefox Start Page]]></Name>
+                                        <Name><![CDATA[[Browser]]]></Name>
                                         <IconKey>Browser</IconKey>
                                     </Object>
                                 </Path>
@@ -116,19 +116,19 @@
         </ReportNode>
         <ReportNode type="Step">
             <Data>
-                <Name><![CDATA[Welcome: Mercury Tours.close]]></Name>
+                <Name><![CDATA[[Browser].close]]></Name>
                 <Description/>
-                <StartTime>2017-06-25 21:41:12</StartTime>
+                <StartTime>2018-07-13 20:40:32</StartTime>
                 <Result>Passed</Result>
                 <Links/>
-                <Duration>1</Duration>
+                <Duration><![CDATA[00:00:00.588]]></Duration>
                 <Extension>
                     <Any>
                         <TestObject>
                             <Path>
                                 <Object>
                                     <Type>Web.Browser</Type>
-                                    <Name><![CDATA[Welcome: Mercury Tours]]></Name>
+                                    <Name><![CDATA[[Browser]]]></Name>
                                 </Object>
                             </Path>
                             <Operation>close</Operation>
@@ -136,11 +136,11 @@
                             <Properties>
                                 <Property>
                                     <Name><![CDATA[type]]></Name>
-                                    <Value><![CDATA[Mozilla Firefox]]></Value>
+                                    <Value><![CDATA[Chrome]]></Value>
                                 </Property>
                                 <Property>
                                     <Name><![CDATA[version]]></Name>
-                                    <Value><![CDATA[54.0]]></Value>
+                                    <Value><![CDATA[67.0]]></Value>
                                 </Property>
                             </Properties>
                         </TestObject>
@@ -154,7 +154,7 @@
                                 <Path>
                                     <Object>
                                         <Type>Web.Browser</Type>
-                                        <Name><![CDATA[Welcome: Mercury Tours]]></Name>
+                                        <Name><![CDATA[[Browser]]]></Name>
                                         <IconKey>Browser</IconKey>
                                     </Object>
                                 </Path>
@@ -168,25 +168,25 @@
         <ReportNode type="Step">
             <Data>
                 <Name><![CDATA[Browser.launch]]></Name>
-                <Description><![CDATA[<style>.ex-table{border-collapse: collapse !important;width: auto;height: auto;}.ex-table,.ex-table tr,.ex-table td{border: 1px solid #c6c6c6;}.ex-table td{padding: 5px 10px;vertical-align: top;width: auto;}.ex-table .ex-name{font-size: 13px;font-weight: bold;background-color: #f3f3f3;white-space: nowrap;}.ex-table .ex-value{color: #5a5a5a;}</style><table class='ex-table'><tr><td class='ex-name'>arg0</td><td class='ex-value'>&quot;FIREFOX&quot;</td></tr></table>]]></Description>
-                <StartTime>2017-06-25 21:41:12</StartTime>
+                <Description><![CDATA[<style>.ex-table{border-collapse: collapse !important;width: auto;height: auto;}.ex-table,.ex-table tr,.ex-table td{border: 1px solid #c6c6c6;}.ex-table td{padding: 5px 10px;vertical-align: top;width: auto;}.ex-table .ex-name{font-size: 13px;font-weight: bold;background-color: #f3f3f3;white-space: nowrap;}.ex-table .ex-value{color: #5a5a5a;}</style><table class='ex-table'><tr><td class='ex-name'>arg0</td><td class='ex-value'>CHROME</td></tr></table><style>.ex-table{border-collapse: collapse !important;width: auto;height: auto;}.ex-table,.ex-table tr,.ex-table td{border: 1px solid #c6c6c6;}.ex-table td{padding: 5px 10px;vertical-align: top;width: auto;}.ex-table .ex-name{font-size: 13px;font-weight: bold;background-color: #f3f3f3;white-space: nowrap;}.ex-table .ex-value{color: #5a5a5a;}</style><p><div class=data-label><hr><b>Browser Information</b></div> </p><style>.ex-table{border-collapse: collapse !important;width: auto;height: auto;}.ex-table,.ex-table tr,.ex-table td{border: 1px solid #c6c6c6;}.ex-table td{padding: 5px 10px;vertical-align: top;width: auto;}.ex-table .ex-name{font-size: 13px;font-weight: bold;background-color: #f3f3f3;white-space: nowrap;}.ex-table .ex-value{color: #5a5a5a;}</style><table class='ex-table'><tr><td class='ex-name'>type</td><td class='ex-value'>Chrome</td></tr><tr><td class='ex-name'>version</td><td class='ex-value'>67.0</td></tr></table>]]></Description>
+                <StartTime>2018-07-13 20:40:32</StartTime>
                 <Result>Passed</Result>
                 <Links/>
-                <Duration>0</Duration>
+                <Duration><![CDATA[00:00:00.000]]></Duration>
                 <Extension>
                     <Any>
                         <TestObject>
                             <Path/>
                             <Operation>launch</Operation>
-                            <OperationData><![CDATA[<style>.ex-table{border-collapse: collapse !important;width: auto;height: auto;}.ex-table,.ex-table tr,.ex-table td{border: 1px solid #c6c6c6;}.ex-table td{padding: 5px 10px;vertical-align: top;width: auto;}.ex-table .ex-name{font-size: 13px;font-weight: bold;background-color: #f3f3f3;white-space: nowrap;}.ex-table .ex-value{color: #5a5a5a;}</style><table class='ex-table'><tr><td class='ex-name'>arg0</td><td class='ex-value'>&quot;FIREFOX&quot;</td></tr></table>]]></OperationData>
+                            <OperationData><![CDATA[<style>.ex-table{border-collapse: collapse !important;width: auto;height: auto;}.ex-table,.ex-table tr,.ex-table td{border: 1px solid #c6c6c6;}.ex-table td{padding: 5px 10px;vertical-align: top;width: auto;}.ex-table .ex-name{font-size: 13px;font-weight: bold;background-color: #f3f3f3;white-space: nowrap;}.ex-table .ex-value{color: #5a5a5a;}</style><table class='ex-table'><tr><td class='ex-name'>arg0</td><td class='ex-value'>CHROME</td></tr></table><style>.ex-table{border-collapse: collapse !important;width: auto;height: auto;}.ex-table,.ex-table tr,.ex-table td{border: 1px solid #c6c6c6;}.ex-table td{padding: 5px 10px;vertical-align: top;width: auto;}.ex-table .ex-name{font-size: 13px;font-weight: bold;background-color: #f3f3f3;white-space: nowrap;}.ex-table .ex-value{color: #5a5a5a;}</style><p><div class=data-label><hr><b>Browser Information</b></div> </p><style>.ex-table{border-collapse: collapse !important;width: auto;height: auto;}.ex-table,.ex-table tr,.ex-table td{border: 1px solid #c6c6c6;}.ex-table td{padding: 5px 10px;vertical-align: top;width: auto;}.ex-table .ex-name{font-size: 13px;font-weight: bold;background-color: #f3f3f3;white-space: nowrap;}.ex-table .ex-value{color: #5a5a5a;}</style><table class='ex-table'><tr><td class='ex-name'>type</td><td class='ex-value'>Chrome</td></tr><tr><td class='ex-name'>version</td><td class='ex-value'>67.0</td></tr></table>]]></OperationData>
                             <Properties/>
                         </TestObject>
                         <IsHtmlErrorText>true</IsHtmlErrorText>
                         <IconKey>Browser</IconKey>
                         <CustomUIElements>
                             <DescriptionLabel>Data</DescriptionLabel>
-                            <FlowTreeNodeCaption><![CDATA[Browser.<span class='emphasis'>launch("Firefox")</span>]]></FlowTreeNodeCaption>
-                            <FlowTreeNodeTooltip><![CDATA[Browser.launch("Firefox")]]></FlowTreeNodeTooltip>
+                            <FlowTreeNodeCaption><![CDATA[Browser.<span class='emphasis'>launch("Chrome")</span>]]></FlowTreeNodeCaption>
+                            <FlowTreeNodeTooltip><![CDATA[Browser.launch("Chrome")]]></FlowTreeNodeTooltip>
                         </CustomUIElements>
                         <HideContextInfo>true</HideContextInfo>
                     </Any>
@@ -195,31 +195,31 @@
         </ReportNode>
         <ReportNode type="Step">
             <Data>
-                <Name><![CDATA[Mozilla Firefox Start Page.navigate]]></Name>
-                <Description><![CDATA[<style>.ex-table{border-collapse: collapse !important;width: auto;height: auto;}.ex-table,.ex-table tr,.ex-table td{border: 1px solid #c6c6c6;}.ex-table td{padding: 5px 10px;vertical-align: top;width: auto;}.ex-table .ex-name{font-size: 13px;font-weight: bold;background-color: #f3f3f3;white-space: nowrap;}.ex-table .ex-value{color: #5a5a5a;}</style><table class='ex-table'><tr><td class='ex-name'>arg0</td><td class='ex-value'>&quot;http://newtours.demoaut.com&quot;</td></tr></table>]]></Description>
-                <StartTime>2017-06-25 21:41:16</StartTime>
+                <Name><![CDATA[[Browser].navigate]]></Name>
+                <Description><![CDATA[<style>.ex-table{border-collapse: collapse !important;width: auto;height: auto;}.ex-table,.ex-table tr,.ex-table td{border: 1px solid #c6c6c6;}.ex-table td{padding: 5px 10px;vertical-align: top;width: auto;}.ex-table .ex-name{font-size: 13px;font-weight: bold;background-color: #f3f3f3;white-space: nowrap;}.ex-table .ex-value{color: #5a5a5a;}</style><table class='ex-table'><tr><td class='ex-name'>arg0</td><td class='ex-value'>http://newtours.demoaut.com</td></tr></table>]]></Description>
+                <StartTime>2018-07-13 20:40:32</StartTime>
                 <Result>Passed</Result>
                 <Links/>
-                <Duration>1</Duration>
+                <Duration><![CDATA[00:00:00.024]]></Duration>
                 <Extension>
                     <Any>
                         <TestObject>
                             <Path>
                                 <Object>
                                     <Type>Web.Browser</Type>
-                                    <Name><![CDATA[Mozilla Firefox Start Page]]></Name>
+                                    <Name><![CDATA[[Browser]]]></Name>
                                 </Object>
                             </Path>
                             <Operation>navigate</Operation>
-                            <OperationData><![CDATA[<style>.ex-table{border-collapse: collapse !important;width: auto;height: auto;}.ex-table,.ex-table tr,.ex-table td{border: 1px solid #c6c6c6;}.ex-table td{padding: 5px 10px;vertical-align: top;width: auto;}.ex-table .ex-name{font-size: 13px;font-weight: bold;background-color: #f3f3f3;white-space: nowrap;}.ex-table .ex-value{color: #5a5a5a;}</style><table class='ex-table'><tr><td class='ex-name'>arg0</td><td class='ex-value'>&quot;http://newtours.demoaut.com&quot;</td></tr></table>]]></OperationData>
+                            <OperationData><![CDATA[<style>.ex-table{border-collapse: collapse !important;width: auto;height: auto;}.ex-table,.ex-table tr,.ex-table td{border: 1px solid #c6c6c6;}.ex-table td{padding: 5px 10px;vertical-align: top;width: auto;}.ex-table .ex-name{font-size: 13px;font-weight: bold;background-color: #f3f3f3;white-space: nowrap;}.ex-table .ex-value{color: #5a5a5a;}</style><table class='ex-table'><tr><td class='ex-name'>arg0</td><td class='ex-value'>http://newtours.demoaut.com</td></tr></table>]]></OperationData>
                             <Properties>
                                 <Property>
                                     <Name><![CDATA[type]]></Name>
-                                    <Value><![CDATA[Mozilla Firefox]]></Value>
+                                    <Value><![CDATA[Chrome]]></Value>
                                 </Property>
                                 <Property>
                                     <Name><![CDATA[version]]></Name>
-                                    <Value><![CDATA[54.0]]></Value>
+                                    <Value><![CDATA[67.0]]></Value>
                                 </Property>
                             </Properties>
                         </TestObject>
@@ -233,7 +233,7 @@
                                 <Path>
                                     <Object>
                                         <Type>Web.Browser</Type>
-                                        <Name><![CDATA[Mozilla Firefox Start Page]]></Name>
+                                        <Name><![CDATA[[Browser]]]></Name>
                                         <IconKey>Browser</IconKey>
                                     </Object>
                                 </Path>
@@ -246,31 +246,31 @@
         </ReportNode>
         <ReportNode type="Step">
             <Data>
-                <Name><![CDATA[userName.setValue]]></Name>
-                <Description><![CDATA[<style>.ex-table{border-collapse: collapse !important;width: auto;height: auto;}.ex-table,.ex-table tr,.ex-table td{border: 1px solid #c6c6c6;}.ex-table td{padding: 5px 10px;vertical-align: top;width: auto;}.ex-table .ex-name{font-size: 13px;font-weight: bold;background-color: #f3f3f3;white-space: nowrap;}.ex-table .ex-value{color: #5a5a5a;}</style><table class='ex-table'><tr><td class='ex-name'>arg0</td><td class='ex-value'>&quot;tutorial&quot;</td></tr></table>]]></Description>
-                <StartTime>2017-06-25 21:41:16</StartTime>
+                <Name><![CDATA[[EditField].setValue]]></Name>
+                <Description><![CDATA[<style>.ex-table{border-collapse: collapse !important;width: auto;height: auto;}.ex-table,.ex-table tr,.ex-table td{border: 1px solid #c6c6c6;}.ex-table td{padding: 5px 10px;vertical-align: top;width: auto;}.ex-table .ex-name{font-size: 13px;font-weight: bold;background-color: #f3f3f3;white-space: nowrap;}.ex-table .ex-value{color: #5a5a5a;}</style><table class='ex-table'><tr><td class='ex-name'>arg0</td><td class='ex-value'>tutorial</td></tr></table>]]></Description>
+                <StartTime>2018-07-13 20:40:32</StartTime>
                 <Result>Passed</Result>
                 <Links/>
-                <Duration>2</Duration>
+                <Duration><![CDATA[00:00:02.388]]></Duration>
                 <Extension>
                     <Any>
                         <TestObject>
                             <Path>
                                 <Object>
                                     <Type>Web.Browser</Type>
-                                    <Name><![CDATA[Welcome: Mercury Tours]]></Name>
+                                    <Name><![CDATA[[Browser]]]></Name>
                                 </Object>
                                 <Object>
                                     <Type>Web.Page</Type>
-                                    <Name><![CDATA[Welcome: Mercury Tours]]></Name>
+                                    <Name><![CDATA[[Page]]]></Name>
                                 </Object>
                                 <Object>
                                     <Type>Web.EditField</Type>
-                                    <Name><![CDATA[userName]]></Name>
+                                    <Name><![CDATA[[EditField]]]></Name>
                                 </Object>
                             </Path>
                             <Operation>setValue</Operation>
-                            <OperationData><![CDATA[<style>.ex-table{border-collapse: collapse !important;width: auto;height: auto;}.ex-table,.ex-table tr,.ex-table td{border: 1px solid #c6c6c6;}.ex-table td{padding: 5px 10px;vertical-align: top;width: auto;}.ex-table .ex-name{font-size: 13px;font-weight: bold;background-color: #f3f3f3;white-space: nowrap;}.ex-table .ex-value{color: #5a5a5a;}</style><table class='ex-table'><tr><td class='ex-name'>arg0</td><td class='ex-value'>&quot;tutorial&quot;</td></tr></table>]]></OperationData>
+                            <OperationData><![CDATA[<style>.ex-table{border-collapse: collapse !important;width: auto;height: auto;}.ex-table,.ex-table tr,.ex-table td{border: 1px solid #c6c6c6;}.ex-table td{padding: 5px 10px;vertical-align: top;width: auto;}.ex-table .ex-name{font-size: 13px;font-weight: bold;background-color: #f3f3f3;white-space: nowrap;}.ex-table .ex-value{color: #5a5a5a;}</style><table class='ex-table'><tr><td class='ex-name'>arg0</td><td class='ex-value'>tutorial</td></tr></table>]]></OperationData>
                             <Properties>
                                 <Property>
                                     <Name><![CDATA[type]]></Name>
@@ -296,17 +296,17 @@
                                 <Path>
                                     <Object>
                                         <Type>Web.Browser</Type>
-                                        <Name><![CDATA[Welcome: Mercury Tours]]></Name>
+                                        <Name><![CDATA[[Browser]]]></Name>
                                         <IconKey>Browser</IconKey>
                                     </Object>
                                     <Object>
                                         <Type>Web.Page</Type>
-                                        <Name><![CDATA[Welcome: Mercury Tours]]></Name>
+                                        <Name><![CDATA[[Page]]]></Name>
                                         <IconKey>Page</IconKey>
                                     </Object>
                                     <Object>
                                         <Type>Web.EditField</Type>
-                                        <Name><![CDATA[userName]]></Name>
+                                        <Name><![CDATA[[EditField]]]></Name>
                                         <IconKey>EditField</IconKey>
                                     </Object>
                                 </Path>
@@ -319,31 +319,31 @@
         </ReportNode>
         <ReportNode type="Step">
             <Data>
-                <Name><![CDATA[password.setValue]]></Name>
-                <Description><![CDATA[<style>.ex-table{border-collapse: collapse !important;width: auto;height: auto;}.ex-table,.ex-table tr,.ex-table td{border: 1px solid #c6c6c6;}.ex-table td{padding: 5px 10px;vertical-align: top;width: auto;}.ex-table .ex-name{font-size: 13px;font-weight: bold;background-color: #f3f3f3;white-space: nowrap;}.ex-table .ex-value{color: #5a5a5a;}</style><table class='ex-table'><tr><td class='ex-name'>arg0</td><td class='ex-value'>&quot;tutorial&quot;</td></tr></table>]]></Description>
-                <StartTime>2017-06-25 21:41:18</StartTime>
+                <Name><![CDATA[[EditField].setValue]]></Name>
+                <Description><![CDATA[<style>.ex-table{border-collapse: collapse !important;width: auto;height: auto;}.ex-table,.ex-table tr,.ex-table td{border: 1px solid #c6c6c6;}.ex-table td{padding: 5px 10px;vertical-align: top;width: auto;}.ex-table .ex-name{font-size: 13px;font-weight: bold;background-color: #f3f3f3;white-space: nowrap;}.ex-table .ex-value{color: #5a5a5a;}</style><table class='ex-table'><tr><td class='ex-name'>arg0</td><td class='ex-value'>tutorial</td></tr></table>]]></Description>
+                <StartTime>2018-07-13 20:40:35</StartTime>
                 <Result>Passed</Result>
                 <Links/>
-                <Duration>1</Duration>
+                <Duration><![CDATA[00:00:00.053]]></Duration>
                 <Extension>
                     <Any>
                         <TestObject>
                             <Path>
                                 <Object>
                                     <Type>Web.Browser</Type>
-                                    <Name><![CDATA[Welcome: Mercury Tours]]></Name>
+                                    <Name><![CDATA[[Browser]]]></Name>
                                 </Object>
                                 <Object>
                                     <Type>Web.Page</Type>
-                                    <Name><![CDATA[Welcome: Mercury Tours]]></Name>
+                                    <Name><![CDATA[[Page]]]></Name>
                                 </Object>
                                 <Object>
                                     <Type>Web.EditField</Type>
-                                    <Name><![CDATA[password]]></Name>
+                                    <Name><![CDATA[[EditField]]]></Name>
                                 </Object>
                             </Path>
                             <Operation>setValue</Operation>
-                            <OperationData><![CDATA[<style>.ex-table{border-collapse: collapse !important;width: auto;height: auto;}.ex-table,.ex-table tr,.ex-table td{border: 1px solid #c6c6c6;}.ex-table td{padding: 5px 10px;vertical-align: top;width: auto;}.ex-table .ex-name{font-size: 13px;font-weight: bold;background-color: #f3f3f3;white-space: nowrap;}.ex-table .ex-value{color: #5a5a5a;}</style><table class='ex-table'><tr><td class='ex-name'>arg0</td><td class='ex-value'>&quot;tutorial&quot;</td></tr></table>]]></OperationData>
+                            <OperationData><![CDATA[<style>.ex-table{border-collapse: collapse !important;width: auto;height: auto;}.ex-table,.ex-table tr,.ex-table td{border: 1px solid #c6c6c6;}.ex-table td{padding: 5px 10px;vertical-align: top;width: auto;}.ex-table .ex-name{font-size: 13px;font-weight: bold;background-color: #f3f3f3;white-space: nowrap;}.ex-table .ex-value{color: #5a5a5a;}</style><table class='ex-table'><tr><td class='ex-name'>arg0</td><td class='ex-value'>tutorial</td></tr></table>]]></OperationData>
                             <Properties>
                                 <Property>
                                     <Name><![CDATA[type]]></Name>
@@ -369,17 +369,17 @@
                                 <Path>
                                     <Object>
                                         <Type>Web.Browser</Type>
-                                        <Name><![CDATA[Welcome: Mercury Tours]]></Name>
+                                        <Name><![CDATA[[Browser]]]></Name>
                                         <IconKey>Browser</IconKey>
                                     </Object>
                                     <Object>
                                         <Type>Web.Page</Type>
-                                        <Name><![CDATA[Welcome: Mercury Tours]]></Name>
+                                        <Name><![CDATA[[Page]]]></Name>
                                         <IconKey>Page</IconKey>
                                     </Object>
                                     <Object>
                                         <Type>Web.EditField</Type>
-                                        <Name><![CDATA[password]]></Name>
+                                        <Name><![CDATA[[EditField]]]></Name>
                                         <IconKey>EditField</IconKey>
                                     </Object>
                                 </Path>
@@ -392,27 +392,27 @@
         </ReportNode>
         <ReportNode type="Step">
             <Data>
-                <Name><![CDATA[Sign-In.click]]></Name>
+                <Name><![CDATA[[Image].click]]></Name>
                 <Description/>
-                <StartTime>2017-06-25 21:41:18</StartTime>
+                <StartTime>2018-07-13 20:40:35</StartTime>
                 <Result>Passed</Result>
                 <Links/>
-                <Duration>1</Duration>
+                <Duration><![CDATA[00:00:00.023]]></Duration>
                 <Extension>
                     <Any>
                         <TestObject>
                             <Path>
                                 <Object>
                                     <Type>Web.Browser</Type>
-                                    <Name><![CDATA[Welcome: Mercury Tours]]></Name>
+                                    <Name><![CDATA[[Browser]]]></Name>
                                 </Object>
                                 <Object>
                                     <Type>Web.Page</Type>
-                                    <Name><![CDATA[Welcome: Mercury Tours]]></Name>
+                                    <Name><![CDATA[[Page]]]></Name>
                                 </Object>
                                 <Object>
                                     <Type>Web.Image</Type>
-                                    <Name><![CDATA[Sign-In]]></Name>
+                                    <Name><![CDATA[[Image]]]></Name>
                                 </Object>
                             </Path>
                             <Operation>click</Operation>
@@ -442,17 +442,17 @@
                                 <Path>
                                     <Object>
                                         <Type>Web.Browser</Type>
-                                        <Name><![CDATA[Welcome: Mercury Tours]]></Name>
+                                        <Name><![CDATA[[Browser]]]></Name>
                                         <IconKey>Browser</IconKey>
                                     </Object>
                                     <Object>
                                         <Type>Web.Page</Type>
-                                        <Name><![CDATA[Welcome: Mercury Tours]]></Name>
+                                        <Name><![CDATA[[Page]]]></Name>
                                         <IconKey>Page</IconKey>
                                     </Object>
                                     <Object>
                                         <Type>Web.Image</Type>
-                                        <Name><![CDATA[Sign-In]]></Name>
+                                        <Name><![CDATA[[Image]]]></Name>
                                         <IconKey>Image</IconKey>
                                     </Object>
                                 </Path>
@@ -465,19 +465,88 @@
         </ReportNode>
         <ReportNode type="Step">
             <Data>
-                <Name><![CDATA[Find a Flight: Mercury Tours:.close]]></Name>
+                <Name><![CDATA[[Link].click]]></Name>
                 <Description/>
-                <StartTime>2017-06-25 21:41:23</StartTime>
+                <StartTime>2018-07-13 20:40:40</StartTime>
                 <Result>Passed</Result>
                 <Links/>
-                <Duration>1</Duration>
+                <Duration><![CDATA[00:00:00.576]]></Duration>
                 <Extension>
                     <Any>
                         <TestObject>
                             <Path>
                                 <Object>
                                     <Type>Web.Browser</Type>
-                                    <Name><![CDATA[Find a Flight: Mercury Tours:]]></Name>
+                                    <Name><![CDATA[[Browser]]]></Name>
+                                </Object>
+                                <Object>
+                                    <Type>Web.Page</Type>
+                                    <Name><![CDATA[[Page]]]></Name>
+                                </Object>
+                                <Object>
+                                    <Type>Web.Link</Type>
+                                    <Name><![CDATA[[Link]]]></Name>
+                                </Object>
+                            </Path>
+                            <Operation>click</Operation>
+                            <OperationData/>
+                            <Properties>
+                                <Property>
+                                    <Name><![CDATA[tagName]]></Name>
+                                    <Value><![CDATA[A]]></Value>
+                                </Property>
+                                <Property>
+                                    <Name><![CDATA[innerText]]></Name>
+                                    <Value><![CDATA[SIGN-OFF]]></Value>
+                                </Property>
+                            </Properties>
+                        </TestObject>
+                        <IsHtmlErrorText>true</IsHtmlErrorText>
+                        <IconKey>Link</IconKey>
+                        <CustomUIElements>
+                            <DescriptionLabel>Data</DescriptionLabel>
+                        </CustomUIElements>
+                        <Descriptive>
+                            <TestObject>
+                                <Path>
+                                    <Object>
+                                        <Type>Web.Browser</Type>
+                                        <Name><![CDATA[[Browser]]]></Name>
+                                        <IconKey>Browser</IconKey>
+                                    </Object>
+                                    <Object>
+                                        <Type>Web.Page</Type>
+                                        <Name><![CDATA[[Page]]]></Name>
+                                        <IconKey>Page</IconKey>
+                                    </Object>
+                                    <Object>
+                                        <Type>Web.Link</Type>
+                                        <Name><![CDATA[[Link]]]></Name>
+                                        <IconKey>Link</IconKey>
+                                    </Object>
+                                </Path>
+                            </TestObject>
+                        </Descriptive>
+                        <HideContextInfo>true</HideContextInfo>
+                    </Any>
+                </Extension>
+            </Data>
+        </ReportNode>
+        <ReportNode type="Step">
+            <Data>
+                <Name><![CDATA[[Browser].close]]></Name>
+                <Description/>
+                <StartTime>2018-07-13 20:40:42</StartTime>
+                <Result>Passed</Result>
+                <Links/>
+                <Duration><![CDATA[00:00:01.030]]></Duration>
+                <Extension>
+                    <Any>
+                        <TestObject>
+                            <Path>
+                                <Object>
+                                    <Type>Web.Browser</Type>
+                                    <Name><![CDATA[[Browser]]]></Name>
                                 </Object>
                             </Path>
                             <Operation>close</Operation>
@@ -485,11 +554,11 @@
                             <Properties>
                                 <Property>
                                     <Name><![CDATA[type]]></Name>
-                                    <Value><![CDATA[Mozilla Firefox]]></Value>
+                                    <Value><![CDATA[Chrome]]></Value>
                                 </Property>
                                 <Property>
                                     <Name><![CDATA[version]]></Name>
-                                    <Value><![CDATA[54.0]]></Value>
+                                    <Value><![CDATA[67.0]]></Value>
                                 </Property>
                             </Properties>
                         </TestObject>
@@ -503,7 +572,7 @@
                                 <Path>
                                     <Object>
                                         <Type>Web.Browser</Type>
-                                        <Name><![CDATA[Find a Flight: Mercury Tours:]]></Name>
+                                        <Name><![CDATA[[Browser]]]></Name>
                                         <IconKey>Browser</IconKey>
                                     </Object>
                                 </Path>
@@ -517,25 +586,25 @@
         <ReportNode type="Step">
             <Data>
                 <Name><![CDATA[Browser.launch]]></Name>
-                <Description><![CDATA[<style>.ex-table{border-collapse: collapse !important;width: auto;height: auto;}.ex-table,.ex-table tr,.ex-table td{border: 1px solid #c6c6c6;}.ex-table td{padding: 5px 10px;vertical-align: top;width: auto;}.ex-table .ex-name{font-size: 13px;font-weight: bold;background-color: #f3f3f3;white-space: nowrap;}.ex-table .ex-value{color: #5a5a5a;}</style><table class='ex-table'><tr><td class='ex-name'>arg0</td><td class='ex-value'>&quot;FIREFOX&quot;</td></tr></table>]]></Description>
-                <StartTime>2017-06-25 21:41:23</StartTime>
+                <Description><![CDATA[<style>.ex-table{border-collapse: collapse !important;width: auto;height: auto;}.ex-table,.ex-table tr,.ex-table td{border: 1px solid #c6c6c6;}.ex-table td{padding: 5px 10px;vertical-align: top;width: auto;}.ex-table .ex-name{font-size: 13px;font-weight: bold;background-color: #f3f3f3;white-space: nowrap;}.ex-table .ex-value{color: #5a5a5a;}</style><table class='ex-table'><tr><td class='ex-name'>arg0</td><td class='ex-value'>CHROME</td></tr></table><style>.ex-table{border-collapse: collapse !important;width: auto;height: auto;}.ex-table,.ex-table tr,.ex-table td{border: 1px solid #c6c6c6;}.ex-table td{padding: 5px 10px;vertical-align: top;width: auto;}.ex-table .ex-name{font-size: 13px;font-weight: bold;background-color: #f3f3f3;white-space: nowrap;}.ex-table .ex-value{color: #5a5a5a;}</style><p><div class=data-label><hr><b>Browser Information</b></div> </p><style>.ex-table{border-collapse: collapse !important;width: auto;height: auto;}.ex-table,.ex-table tr,.ex-table td{border: 1px solid #c6c6c6;}.ex-table td{padding: 5px 10px;vertical-align: top;width: auto;}.ex-table .ex-name{font-size: 13px;font-weight: bold;background-color: #f3f3f3;white-space: nowrap;}.ex-table .ex-value{color: #5a5a5a;}</style><table class='ex-table'><tr><td class='ex-name'>type</td><td class='ex-value'>Chrome</td></tr><tr><td class='ex-name'>version</td><td class='ex-value'>67.0</td></tr></table>]]></Description>
+                <StartTime>2018-07-13 20:40:43</StartTime>
                 <Result>Passed</Result>
                 <Links/>
-                <Duration>0</Duration>
+                <Duration><![CDATA[00:00:00.000]]></Duration>
                 <Extension>
                     <Any>
                         <TestObject>
                             <Path/>
                             <Operation>launch</Operation>
-                            <OperationData><![CDATA[<style>.ex-table{border-collapse: collapse !important;width: auto;height: auto;}.ex-table,.ex-table tr,.ex-table td{border: 1px solid #c6c6c6;}.ex-table td{padding: 5px 10px;vertical-align: top;width: auto;}.ex-table .ex-name{font-size: 13px;font-weight: bold;background-color: #f3f3f3;white-space: nowrap;}.ex-table .ex-value{color: #5a5a5a;}</style><table class='ex-table'><tr><td class='ex-name'>arg0</td><td class='ex-value'>&quot;FIREFOX&quot;</td></tr></table>]]></OperationData>
+                            <OperationData><![CDATA[<style>.ex-table{border-collapse: collapse !important;width: auto;height: auto;}.ex-table,.ex-table tr,.ex-table td{border: 1px solid #c6c6c6;}.ex-table td{padding: 5px 10px;vertical-align: top;width: auto;}.ex-table .ex-name{font-size: 13px;font-weight: bold;background-color: #f3f3f3;white-space: nowrap;}.ex-table .ex-value{color: #5a5a5a;}</style><table class='ex-table'><tr><td class='ex-name'>arg0</td><td class='ex-value'>CHROME</td></tr></table><style>.ex-table{border-collapse: collapse !important;width: auto;height: auto;}.ex-table,.ex-table tr,.ex-table td{border: 1px solid #c6c6c6;}.ex-table td{padding: 5px 10px;vertical-align: top;width: auto;}.ex-table .ex-name{font-size: 13px;font-weight: bold;background-color: #f3f3f3;white-space: nowrap;}.ex-table .ex-value{color: #5a5a5a;}</style><p><div class=data-label><hr><b>Browser Information</b></div> </p><style>.ex-table{border-collapse: collapse !important;width: auto;height: auto;}.ex-table,.ex-table tr,.ex-table td{border: 1px solid #c6c6c6;}.ex-table td{padding: 5px 10px;vertical-align: top;width: auto;}.ex-table .ex-name{font-size: 13px;font-weight: bold;background-color: #f3f3f3;white-space: nowrap;}.ex-table .ex-value{color: #5a5a5a;}</style><table class='ex-table'><tr><td class='ex-name'>type</td><td class='ex-value'>Chrome</td></tr><tr><td class='ex-name'>version</td><td class='ex-value'>67.0</td></tr></table>]]></OperationData>
                             <Properties/>
                         </TestObject>
                         <IsHtmlErrorText>true</IsHtmlErrorText>
                         <IconKey>Browser</IconKey>
                         <CustomUIElements>
                             <DescriptionLabel>Data</DescriptionLabel>
-                            <FlowTreeNodeCaption><![CDATA[Browser.<span class='emphasis'>launch("Firefox")</span>]]></FlowTreeNodeCaption>
-                            <FlowTreeNodeTooltip><![CDATA[Browser.launch("Firefox")]]></FlowTreeNodeTooltip>
+                            <FlowTreeNodeCaption><![CDATA[Browser.<span class='emphasis'>launch("Chrome")</span>]]></FlowTreeNodeCaption>
+                            <FlowTreeNodeTooltip><![CDATA[Browser.launch("Chrome")]]></FlowTreeNodeTooltip>
                         </CustomUIElements>
                         <HideContextInfo>true</HideContextInfo>
                     </Any>
@@ -544,31 +613,31 @@
         </ReportNode>
         <ReportNode type="Step">
             <Data>
-                <Name><![CDATA[Mozilla Firefox Start Page.navigate]]></Name>
-                <Description><![CDATA[<style>.ex-table{border-collapse: collapse !important;width: auto;height: auto;}.ex-table,.ex-table tr,.ex-table td{border: 1px solid #c6c6c6;}.ex-table td{padding: 5px 10px;vertical-align: top;width: auto;}.ex-table .ex-name{font-size: 13px;font-weight: bold;background-color: #f3f3f3;white-space: nowrap;}.ex-table .ex-value{color: #5a5a5a;}</style><table class='ex-table'><tr><td class='ex-name'>arg0</td><td class='ex-value'>&quot;http://newtours.demoaut.com&quot;</td></tr></table>]]></Description>
-                <StartTime>2017-06-25 21:41:27</StartTime>
+                <Name><![CDATA[[Browser].navigate]]></Name>
+                <Description><![CDATA[<style>.ex-table{border-collapse: collapse !important;width: auto;height: auto;}.ex-table,.ex-table tr,.ex-table td{border: 1px solid #c6c6c6;}.ex-table td{padding: 5px 10px;vertical-align: top;width: auto;}.ex-table .ex-name{font-size: 13px;font-weight: bold;background-color: #f3f3f3;white-space: nowrap;}.ex-table .ex-value{color: #5a5a5a;}</style><table class='ex-table'><tr><td class='ex-name'>arg0</td><td class='ex-value'>http://newtours.demoaut.com</td></tr></table>]]></Description>
+                <StartTime>2018-07-13 20:40:44</StartTime>
                 <Result>Passed</Result>
                 <Links/>
-                <Duration>1</Duration>
+                <Duration><![CDATA[00:00:00.027]]></Duration>
                 <Extension>
                     <Any>
                         <TestObject>
                             <Path>
                                 <Object>
                                     <Type>Web.Browser</Type>
-                                    <Name><![CDATA[Mozilla Firefox Start Page]]></Name>
+                                    <Name><![CDATA[[Browser]]]></Name>
                                 </Object>
                             </Path>
                             <Operation>navigate</Operation>
-                            <OperationData><![CDATA[<style>.ex-table{border-collapse: collapse !important;width: auto;height: auto;}.ex-table,.ex-table tr,.ex-table td{border: 1px solid #c6c6c6;}.ex-table td{padding: 5px 10px;vertical-align: top;width: auto;}.ex-table .ex-name{font-size: 13px;font-weight: bold;background-color: #f3f3f3;white-space: nowrap;}.ex-table .ex-value{color: #5a5a5a;}</style><table class='ex-table'><tr><td class='ex-name'>arg0</td><td class='ex-value'>&quot;http://newtours.demoaut.com&quot;</td></tr></table>]]></OperationData>
+                            <OperationData><![CDATA[<style>.ex-table{border-collapse: collapse !important;width: auto;height: auto;}.ex-table,.ex-table tr,.ex-table td{border: 1px solid #c6c6c6;}.ex-table td{padding: 5px 10px;vertical-align: top;width: auto;}.ex-table .ex-name{font-size: 13px;font-weight: bold;background-color: #f3f3f3;white-space: nowrap;}.ex-table .ex-value{color: #5a5a5a;}</style><table class='ex-table'><tr><td class='ex-name'>arg0</td><td class='ex-value'>http://newtours.demoaut.com</td></tr></table>]]></OperationData>
                             <Properties>
                                 <Property>
                                     <Name><![CDATA[type]]></Name>
-                                    <Value><![CDATA[Mozilla Firefox]]></Value>
+                                    <Value><![CDATA[Chrome]]></Value>
                                 </Property>
                                 <Property>
                                     <Name><![CDATA[version]]></Name>
-                                    <Value><![CDATA[54.0]]></Value>
+                                    <Value><![CDATA[67.0]]></Value>
                                 </Property>
                             </Properties>
                         </TestObject>
@@ -582,7 +651,7 @@
                                 <Path>
                                     <Object>
                                         <Type>Web.Browser</Type>
-                                        <Name><![CDATA[Mozilla Firefox Start Page]]></Name>
+                                        <Name><![CDATA[[Browser]]]></Name>
                                         <IconKey>Browser</IconKey>
                                     </Object>
                                 </Path>
@@ -595,31 +664,31 @@
         </ReportNode>
         <ReportNode type="Step">
             <Data>
-                <Name><![CDATA[userName.setValue]]></Name>
-                <Description><![CDATA[<style>.ex-table{border-collapse: collapse !important;width: auto;height: auto;}.ex-table,.ex-table tr,.ex-table td{border: 1px solid #c6c6c6;}.ex-table td{padding: 5px 10px;vertical-align: top;width: auto;}.ex-table .ex-name{font-size: 13px;font-weight: bold;background-color: #f3f3f3;white-space: nowrap;}.ex-table .ex-value{color: #5a5a5a;}</style><table class='ex-table'><tr><td class='ex-name'>arg0</td><td class='ex-value'>&quot;leanft&quot;</td></tr></table>]]></Description>
-                <StartTime>2017-06-25 21:41:27</StartTime>
+                <Name><![CDATA[[EditField].setValue]]></Name>
+                <Description><![CDATA[<style>.ex-table{border-collapse: collapse !important;width: auto;height: auto;}.ex-table,.ex-table tr,.ex-table td{border: 1px solid #c6c6c6;}.ex-table td{padding: 5px 10px;vertical-align: top;width: auto;}.ex-table .ex-name{font-size: 13px;font-weight: bold;background-color: #f3f3f3;white-space: nowrap;}.ex-table .ex-value{color: #5a5a5a;}</style><table class='ex-table'><tr><td class='ex-name'>arg0</td><td class='ex-value'>leanft</td></tr></table>]]></Description>
+                <StartTime>2018-07-13 20:40:44</StartTime>
                 <Result>Passed</Result>
                 <Links/>
-                <Duration>2</Duration>
+                <Duration><![CDATA[00:00:02.189]]></Duration>
                 <Extension>
                     <Any>
                         <TestObject>
                             <Path>
                                 <Object>
                                     <Type>Web.Browser</Type>
-                                    <Name><![CDATA[Welcome: Mercury Tours]]></Name>
+                                    <Name><![CDATA[[Browser]]]></Name>
                                 </Object>
                                 <Object>
                                     <Type>Web.Page</Type>
-                                    <Name><![CDATA[Welcome: Mercury Tours]]></Name>
+                                    <Name><![CDATA[[Page]]]></Name>
                                 </Object>
                                 <Object>
                                     <Type>Web.EditField</Type>
-                                    <Name><![CDATA[userName]]></Name>
+                                    <Name><![CDATA[[EditField]]]></Name>
                                 </Object>
                             </Path>
                             <Operation>setValue</Operation>
-                            <OperationData><![CDATA[<style>.ex-table{border-collapse: collapse !important;width: auto;height: auto;}.ex-table,.ex-table tr,.ex-table td{border: 1px solid #c6c6c6;}.ex-table td{padding: 5px 10px;vertical-align: top;width: auto;}.ex-table .ex-name{font-size: 13px;font-weight: bold;background-color: #f3f3f3;white-space: nowrap;}.ex-table .ex-value{color: #5a5a5a;}</style><table class='ex-table'><tr><td class='ex-name'>arg0</td><td class='ex-value'>&quot;leanft&quot;</td></tr></table>]]></OperationData>
+                            <OperationData><![CDATA[<style>.ex-table{border-collapse: collapse !important;width: auto;height: auto;}.ex-table,.ex-table tr,.ex-table td{border: 1px solid #c6c6c6;}.ex-table td{padding: 5px 10px;vertical-align: top;width: auto;}.ex-table .ex-name{font-size: 13px;font-weight: bold;background-color: #f3f3f3;white-space: nowrap;}.ex-table .ex-value{color: #5a5a5a;}</style><table class='ex-table'><tr><td class='ex-name'>arg0</td><td class='ex-value'>leanft</td></tr></table>]]></OperationData>
                             <Properties>
                                 <Property>
                                     <Name><![CDATA[type]]></Name>
@@ -645,17 +714,17 @@
                                 <Path>
                                     <Object>
                                         <Type>Web.Browser</Type>
-                                        <Name><![CDATA[Welcome: Mercury Tours]]></Name>
+                                        <Name><![CDATA[[Browser]]]></Name>
                                         <IconKey>Browser</IconKey>
                                     </Object>
                                     <Object>
                                         <Type>Web.Page</Type>
-                                        <Name><![CDATA[Welcome: Mercury Tours]]></Name>
+                                        <Name><![CDATA[[Page]]]></Name>
                                         <IconKey>Page</IconKey>
                                     </Object>
                                     <Object>
                                         <Type>Web.EditField</Type>
-                                        <Name><![CDATA[userName]]></Name>
+                                        <Name><![CDATA[[EditField]]]></Name>
                                         <IconKey>EditField</IconKey>
                                     </Object>
                                 </Path>
@@ -668,31 +737,31 @@
         </ReportNode>
         <ReportNode type="Step">
             <Data>
-                <Name><![CDATA[password.setValue]]></Name>
-                <Description><![CDATA[<style>.ex-table{border-collapse: collapse !important;width: auto;height: auto;}.ex-table,.ex-table tr,.ex-table td{border: 1px solid #c6c6c6;}.ex-table td{padding: 5px 10px;vertical-align: top;width: auto;}.ex-table .ex-name{font-size: 13px;font-weight: bold;background-color: #f3f3f3;white-space: nowrap;}.ex-table .ex-value{color: #5a5a5a;}</style><table class='ex-table'><tr><td class='ex-name'>arg0</td><td class='ex-value'>&quot;leanft&quot;</td></tr></table>]]></Description>
-                <StartTime>2017-06-25 21:41:29</StartTime>
+                <Name><![CDATA[[EditField].setValue]]></Name>
+                <Description><![CDATA[<style>.ex-table{border-collapse: collapse !important;width: auto;height: auto;}.ex-table,.ex-table tr,.ex-table td{border: 1px solid #c6c6c6;}.ex-table td{padding: 5px 10px;vertical-align: top;width: auto;}.ex-table .ex-name{font-size: 13px;font-weight: bold;background-color: #f3f3f3;white-space: nowrap;}.ex-table .ex-value{color: #5a5a5a;}</style><table class='ex-table'><tr><td class='ex-name'>arg0</td><td class='ex-value'>leanft</td></tr></table>]]></Description>
+                <StartTime>2018-07-13 20:40:46</StartTime>
                 <Result>Passed</Result>
                 <Links/>
-                <Duration>1</Duration>
+                <Duration><![CDATA[00:00:00.047]]></Duration>
                 <Extension>
                     <Any>
                         <TestObject>
                             <Path>
                                 <Object>
                                     <Type>Web.Browser</Type>
-                                    <Name><![CDATA[Welcome: Mercury Tours]]></Name>
+                                    <Name><![CDATA[[Browser]]]></Name>
                                 </Object>
                                 <Object>
                                     <Type>Web.Page</Type>
-                                    <Name><![CDATA[Welcome: Mercury Tours]]></Name>
+                                    <Name><![CDATA[[Page]]]></Name>
                                 </Object>
                                 <Object>
                                     <Type>Web.EditField</Type>
-                                    <Name><![CDATA[password]]></Name>
+                                    <Name><![CDATA[[EditField]]]></Name>
                                 </Object>
                             </Path>
                             <Operation>setValue</Operation>
-                            <OperationData><![CDATA[<style>.ex-table{border-collapse: collapse !important;width: auto;height: auto;}.ex-table,.ex-table tr,.ex-table td{border: 1px solid #c6c6c6;}.ex-table td{padding: 5px 10px;vertical-align: top;width: auto;}.ex-table .ex-name{font-size: 13px;font-weight: bold;background-color: #f3f3f3;white-space: nowrap;}.ex-table .ex-value{color: #5a5a5a;}</style><table class='ex-table'><tr><td class='ex-name'>arg0</td><td class='ex-value'>&quot;leanft&quot;</td></tr></table>]]></OperationData>
+                            <OperationData><![CDATA[<style>.ex-table{border-collapse: collapse !important;width: auto;height: auto;}.ex-table,.ex-table tr,.ex-table td{border: 1px solid #c6c6c6;}.ex-table td{padding: 5px 10px;vertical-align: top;width: auto;}.ex-table .ex-name{font-size: 13px;font-weight: bold;background-color: #f3f3f3;white-space: nowrap;}.ex-table .ex-value{color: #5a5a5a;}</style><table class='ex-table'><tr><td class='ex-name'>arg0</td><td class='ex-value'>leanft</td></tr></table>]]></OperationData>
                             <Properties>
                                 <Property>
                                     <Name><![CDATA[type]]></Name>
@@ -718,17 +787,17 @@
                                 <Path>
                                     <Object>
                                         <Type>Web.Browser</Type>
-                                        <Name><![CDATA[Welcome: Mercury Tours]]></Name>
+                                        <Name><![CDATA[[Browser]]]></Name>
                                         <IconKey>Browser</IconKey>
                                     </Object>
                                     <Object>
                                         <Type>Web.Page</Type>
-                                        <Name><![CDATA[Welcome: Mercury Tours]]></Name>
+                                        <Name><![CDATA[[Page]]]></Name>
                                         <IconKey>Page</IconKey>
                                     </Object>
                                     <Object>
                                         <Type>Web.EditField</Type>
-                                        <Name><![CDATA[password]]></Name>
+                                        <Name><![CDATA[[EditField]]]></Name>
                                         <IconKey>EditField</IconKey>
                                     </Object>
                                 </Path>
@@ -741,27 +810,27 @@
         </ReportNode>
         <ReportNode type="Step">
             <Data>
-                <Name><![CDATA[Sign-In.click]]></Name>
+                <Name><![CDATA[[Image].click]]></Name>
                 <Description/>
-                <StartTime>2017-06-25 21:41:29</StartTime>
+                <StartTime>2018-07-13 20:40:46</StartTime>
                 <Result>Passed</Result>
                 <Links/>
-                <Duration>1</Duration>
+                <Duration><![CDATA[00:00:00.027]]></Duration>
                 <Extension>
                     <Any>
                         <TestObject>
                             <Path>
                                 <Object>
                                     <Type>Web.Browser</Type>
-                                    <Name><![CDATA[Welcome: Mercury Tours]]></Name>
+                                    <Name><![CDATA[[Browser]]]></Name>
                                 </Object>
                                 <Object>
                                     <Type>Web.Page</Type>
-                                    <Name><![CDATA[Welcome: Mercury Tours]]></Name>
+                                    <Name><![CDATA[[Page]]]></Name>
                                 </Object>
                                 <Object>
                                     <Type>Web.Image</Type>
-                                    <Name><![CDATA[Sign-In]]></Name>
+                                    <Name><![CDATA[[Image]]]></Name>
                                 </Object>
                             </Path>
                             <Operation>click</Operation>
@@ -791,17 +860,17 @@
                                 <Path>
                                     <Object>
                                         <Type>Web.Browser</Type>
-                                        <Name><![CDATA[Welcome: Mercury Tours]]></Name>
+                                        <Name><![CDATA[[Browser]]]></Name>
                                         <IconKey>Browser</IconKey>
                                     </Object>
                                     <Object>
                                         <Type>Web.Page</Type>
-                                        <Name><![CDATA[Welcome: Mercury Tours]]></Name>
+                                        <Name><![CDATA[[Page]]]></Name>
                                         <IconKey>Page</IconKey>
                                     </Object>
                                     <Object>
                                         <Type>Web.Image</Type>
-                                        <Name><![CDATA[Sign-In]]></Name>
+                                        <Name><![CDATA[[Image]]]></Name>
                                         <IconKey>Image</IconKey>
                                     </Object>
                                 </Path>
@@ -814,19 +883,88 @@
         </ReportNode>
         <ReportNode type="Step">
             <Data>
-                <Name><![CDATA[Find a Flight: Mercury Tours:.close]]></Name>
+                <Name><![CDATA[[Link].click]]></Name>
                 <Description/>
-                <StartTime>2017-06-25 21:41:31</StartTime>
+                <StartTime>2018-07-13 20:40:50</StartTime>
                 <Result>Passed</Result>
                 <Links/>
-                <Duration>1</Duration>
+                <Duration><![CDATA[00:00:00.028]]></Duration>
                 <Extension>
                     <Any>
                         <TestObject>
                             <Path>
                                 <Object>
                                     <Type>Web.Browser</Type>
-                                    <Name><![CDATA[Find a Flight: Mercury Tours:]]></Name>
+                                    <Name><![CDATA[[Browser]]]></Name>
+                                </Object>
+                                <Object>
+                                    <Type>Web.Page</Type>
+                                    <Name><![CDATA[[Page]]]></Name>
+                                </Object>
+                                <Object>
+                                    <Type>Web.Link</Type>
+                                    <Name><![CDATA[[Link]]]></Name>
+                                </Object>
+                            </Path>
+                            <Operation>click</Operation>
+                            <OperationData/>
+                            <Properties>
+                                <Property>
+                                    <Name><![CDATA[tagName]]></Name>
+                                    <Value><![CDATA[A]]></Value>
+                                </Property>
+                                <Property>
+                                    <Name><![CDATA[innerText]]></Name>
+                                    <Value><![CDATA[SIGN-OFF]]></Value>
+                                </Property>
+                            </Properties>
+                        </TestObject>
+                        <IsHtmlErrorText>true</IsHtmlErrorText>
+                        <IconKey>Link</IconKey>
+                        <CustomUIElements>
+                            <DescriptionLabel>Data</DescriptionLabel>
+                        </CustomUIElements>
+                        <Descriptive>
+                            <TestObject>
+                                <Path>
+                                    <Object>
+                                        <Type>Web.Browser</Type>
+                                        <Name><![CDATA[[Browser]]]></Name>
+                                        <IconKey>Browser</IconKey>
+                                    </Object>
+                                    <Object>
+                                        <Type>Web.Page</Type>
+                                        <Name><![CDATA[[Page]]]></Name>
+                                        <IconKey>Page</IconKey>
+                                    </Object>
+                                    <Object>
+                                        <Type>Web.Link</Type>
+                                        <Name><![CDATA[[Link]]]></Name>
+                                        <IconKey>Link</IconKey>
+                                    </Object>
+                                </Path>
+                            </TestObject>
+                        </Descriptive>
+                        <HideContextInfo>true</HideContextInfo>
+                    </Any>
+                </Extension>
+            </Data>
+        </ReportNode>
+        <ReportNode type="Step">
+            <Data>
+                <Name><![CDATA[[Browser].close]]></Name>
+                <Description/>
+                <StartTime>2018-07-13 20:40:52</StartTime>
+                <Result>Passed</Result>
+                <Links/>
+                <Duration><![CDATA[00:00:00.546]]></Duration>
+                <Extension>
+                    <Any>
+                        <TestObject>
+                            <Path>
+                                <Object>
+                                    <Type>Web.Browser</Type>
+                                    <Name><![CDATA[[Browser]]]></Name>
                                 </Object>
                             </Path>
                             <Operation>close</Operation>
@@ -834,11 +972,11 @@
                             <Properties>
                                 <Property>
                                     <Name><![CDATA[type]]></Name>
-                                    <Value><![CDATA[Mozilla Firefox]]></Value>
+                                    <Value><![CDATA[Chrome]]></Value>
                                 </Property>
                                 <Property>
                                     <Name><![CDATA[version]]></Name>
-                                    <Value><![CDATA[54.0]]></Value>
+                                    <Value><![CDATA[67.0]]></Value>
                                 </Property>
                             </Properties>
                         </TestObject>
@@ -852,7 +990,7 @@
                                 <Path>
                                     <Object>
                                         <Type>Web.Browser</Type>
-                                        <Name><![CDATA[Find a Flight: Mercury Tours:]]></Name>
+                                        <Name><![CDATA[[Browser]]]></Name>
                                         <IconKey>Browser</IconKey>
                                     </Object>
                                 </Path>
@@ -866,25 +1004,25 @@
         <ReportNode type="Step">
             <Data>
                 <Name><![CDATA[Browser.launch]]></Name>
-                <Description><![CDATA[<style>.ex-table{border-collapse: collapse !important;width: auto;height: auto;}.ex-table,.ex-table tr,.ex-table td{border: 1px solid #c6c6c6;}.ex-table td{padding: 5px 10px;vertical-align: top;width: auto;}.ex-table .ex-name{font-size: 13px;font-weight: bold;background-color: #f3f3f3;white-space: nowrap;}.ex-table .ex-value{color: #5a5a5a;}</style><table class='ex-table'><tr><td class='ex-name'>arg0</td><td class='ex-value'>&quot;FIREFOX&quot;</td></tr></table>]]></Description>
-                <StartTime>2017-06-25 21:41:31</StartTime>
+                <Description><![CDATA[<style>.ex-table{border-collapse: collapse !important;width: auto;height: auto;}.ex-table,.ex-table tr,.ex-table td{border: 1px solid #c6c6c6;}.ex-table td{padding: 5px 10px;vertical-align: top;width: auto;}.ex-table .ex-name{font-size: 13px;font-weight: bold;background-color: #f3f3f3;white-space: nowrap;}.ex-table .ex-value{color: #5a5a5a;}</style><table class='ex-table'><tr><td class='ex-name'>arg0</td><td class='ex-value'>CHROME</td></tr></table><style>.ex-table{border-collapse: collapse !important;width: auto;height: auto;}.ex-table,.ex-table tr,.ex-table td{border: 1px solid #c6c6c6;}.ex-table td{padding: 5px 10px;vertical-align: top;width: auto;}.ex-table .ex-name{font-size: 13px;font-weight: bold;background-color: #f3f3f3;white-space: nowrap;}.ex-table .ex-value{color: #5a5a5a;}</style><p><div class=data-label><hr><b>Browser Information</b></div> </p><style>.ex-table{border-collapse: collapse !important;width: auto;height: auto;}.ex-table,.ex-table tr,.ex-table td{border: 1px solid #c6c6c6;}.ex-table td{padding: 5px 10px;vertical-align: top;width: auto;}.ex-table .ex-name{font-size: 13px;font-weight: bold;background-color: #f3f3f3;white-space: nowrap;}.ex-table .ex-value{color: #5a5a5a;}</style><table class='ex-table'><tr><td class='ex-name'>type</td><td class='ex-value'>Chrome</td></tr><tr><td class='ex-name'>version</td><td class='ex-value'>67.0</td></tr></table>]]></Description>
+                <StartTime>2018-07-13 20:40:53</StartTime>
                 <Result>Passed</Result>
                 <Links/>
-                <Duration>0</Duration>
+                <Duration><![CDATA[00:00:00.000]]></Duration>
                 <Extension>
                     <Any>
                         <TestObject>
                             <Path/>
                             <Operation>launch</Operation>
-                            <OperationData><![CDATA[<style>.ex-table{border-collapse: collapse !important;width: auto;height: auto;}.ex-table,.ex-table tr,.ex-table td{border: 1px solid #c6c6c6;}.ex-table td{padding: 5px 10px;vertical-align: top;width: auto;}.ex-table .ex-name{font-size: 13px;font-weight: bold;background-color: #f3f3f3;white-space: nowrap;}.ex-table .ex-value{color: #5a5a5a;}</style><table class='ex-table'><tr><td class='ex-name'>arg0</td><td class='ex-value'>&quot;FIREFOX&quot;</td></tr></table>]]></OperationData>
+                            <OperationData><![CDATA[<style>.ex-table{border-collapse: collapse !important;width: auto;height: auto;}.ex-table,.ex-table tr,.ex-table td{border: 1px solid #c6c6c6;}.ex-table td{padding: 5px 10px;vertical-align: top;width: auto;}.ex-table .ex-name{font-size: 13px;font-weight: bold;background-color: #f3f3f3;white-space: nowrap;}.ex-table .ex-value{color: #5a5a5a;}</style><table class='ex-table'><tr><td class='ex-name'>arg0</td><td class='ex-value'>CHROME</td></tr></table><style>.ex-table{border-collapse: collapse !important;width: auto;height: auto;}.ex-table,.ex-table tr,.ex-table td{border: 1px solid #c6c6c6;}.ex-table td{padding: 5px 10px;vertical-align: top;width: auto;}.ex-table .ex-name{font-size: 13px;font-weight: bold;background-color: #f3f3f3;white-space: nowrap;}.ex-table .ex-value{color: #5a5a5a;}</style><p><div class=data-label><hr><b>Browser Information</b></div> </p><style>.ex-table{border-collapse: collapse !important;width: auto;height: auto;}.ex-table,.ex-table tr,.ex-table td{border: 1px solid #c6c6c6;}.ex-table td{padding: 5px 10px;vertical-align: top;width: auto;}.ex-table .ex-name{font-size: 13px;font-weight: bold;background-color: #f3f3f3;white-space: nowrap;}.ex-table .ex-value{color: #5a5a5a;}</style><table class='ex-table'><tr><td class='ex-name'>type</td><td class='ex-value'>Chrome</td></tr><tr><td class='ex-name'>version</td><td class='ex-value'>67.0</td></tr></table>]]></OperationData>
                             <Properties/>
                         </TestObject>
                         <IsHtmlErrorText>true</IsHtmlErrorText>
                         <IconKey>Browser</IconKey>
                         <CustomUIElements>
                             <DescriptionLabel>Data</DescriptionLabel>
-                            <FlowTreeNodeCaption><![CDATA[Browser.<span class='emphasis'>launch("Firefox")</span>]]></FlowTreeNodeCaption>
-                            <FlowTreeNodeTooltip><![CDATA[Browser.launch("Firefox")]]></FlowTreeNodeTooltip>
+                            <FlowTreeNodeCaption><![CDATA[Browser.<span class='emphasis'>launch("Chrome")</span>]]></FlowTreeNodeCaption>
+                            <FlowTreeNodeTooltip><![CDATA[Browser.launch("Chrome")]]></FlowTreeNodeTooltip>
                         </CustomUIElements>
                         <HideContextInfo>true</HideContextInfo>
                     </Any>
@@ -893,31 +1031,31 @@
         </ReportNode>
         <ReportNode type="Step">
             <Data>
-                <Name><![CDATA[Mozilla Firefox Start Page.navigate]]></Name>
-                <Description><![CDATA[<style>.ex-table{border-collapse: collapse !important;width: auto;height: auto;}.ex-table,.ex-table tr,.ex-table td{border: 1px solid #c6c6c6;}.ex-table td{padding: 5px 10px;vertical-align: top;width: auto;}.ex-table .ex-name{font-size: 13px;font-weight: bold;background-color: #f3f3f3;white-space: nowrap;}.ex-table .ex-value{color: #5a5a5a;}</style><table class='ex-table'><tr><td class='ex-name'>arg0</td><td class='ex-value'>&quot;http://newtours.demoaut.com&quot;</td></tr></table>]]></Description>
-                <StartTime>2017-06-25 21:41:35</StartTime>
+                <Name><![CDATA[[Browser].navigate]]></Name>
+                <Description><![CDATA[<style>.ex-table{border-collapse: collapse !important;width: auto;height: auto;}.ex-table,.ex-table tr,.ex-table td{border: 1px solid #c6c6c6;}.ex-table td{padding: 5px 10px;vertical-align: top;width: auto;}.ex-table .ex-name{font-size: 13px;font-weight: bold;background-color: #f3f3f3;white-space: nowrap;}.ex-table .ex-value{color: #5a5a5a;}</style><table class='ex-table'><tr><td class='ex-name'>arg0</td><td class='ex-value'>http://newtours.demoaut.com</td></tr></table>]]></Description>
+                <StartTime>2018-07-13 20:40:53</StartTime>
                 <Result>Passed</Result>
                 <Links/>
-                <Duration>1</Duration>
+                <Duration><![CDATA[00:00:00.037]]></Duration>
                 <Extension>
                     <Any>
                         <TestObject>
                             <Path>
                                 <Object>
                                     <Type>Web.Browser</Type>
-                                    <Name><![CDATA[Mozilla Firefox Start Page]]></Name>
+                                    <Name><![CDATA[[Browser]]]></Name>
                                 </Object>
                             </Path>
                             <Operation>navigate</Operation>
-                            <OperationData><![CDATA[<style>.ex-table{border-collapse: collapse !important;width: auto;height: auto;}.ex-table,.ex-table tr,.ex-table td{border: 1px solid #c6c6c6;}.ex-table td{padding: 5px 10px;vertical-align: top;width: auto;}.ex-table .ex-name{font-size: 13px;font-weight: bold;background-color: #f3f3f3;white-space: nowrap;}.ex-table .ex-value{color: #5a5a5a;}</style><table class='ex-table'><tr><td class='ex-name'>arg0</td><td class='ex-value'>&quot;http://newtours.demoaut.com&quot;</td></tr></table>]]></OperationData>
+                            <OperationData><![CDATA[<style>.ex-table{border-collapse: collapse !important;width: auto;height: auto;}.ex-table,.ex-table tr,.ex-table td{border: 1px solid #c6c6c6;}.ex-table td{padding: 5px 10px;vertical-align: top;width: auto;}.ex-table .ex-name{font-size: 13px;font-weight: bold;background-color: #f3f3f3;white-space: nowrap;}.ex-table .ex-value{color: #5a5a5a;}</style><table class='ex-table'><tr><td class='ex-name'>arg0</td><td class='ex-value'>http://newtours.demoaut.com</td></tr></table>]]></OperationData>
                             <Properties>
                                 <Property>
                                     <Name><![CDATA[type]]></Name>
-                                    <Value><![CDATA[Mozilla Firefox]]></Value>
+                                    <Value><![CDATA[Chrome]]></Value>
                                 </Property>
                                 <Property>
                                     <Name><![CDATA[version]]></Name>
-                                    <Value><![CDATA[54.0]]></Value>
+                                    <Value><![CDATA[67.0]]></Value>
                                 </Property>
                             </Properties>
                         </TestObject>
@@ -931,7 +1069,7 @@
                                 <Path>
                                     <Object>
                                         <Type>Web.Browser</Type>
-                                        <Name><![CDATA[Mozilla Firefox Start Page]]></Name>
+                                        <Name><![CDATA[[Browser]]]></Name>
                                         <IconKey>Browser</IconKey>
                                     </Object>
                                 </Path>
@@ -944,19 +1082,19 @@
         </ReportNode>
         <ReportNode type="Step">
             <Data>
-                <Name><![CDATA[Welcome: Mercury Tours.close]]></Name>
+                <Name><![CDATA[[Browser].close]]></Name>
                 <Description/>
-                <StartTime>2017-06-25 21:41:39</StartTime>
+                <StartTime>2018-07-13 20:40:56</StartTime>
                 <Result>Passed</Result>
                 <Links/>
-                <Duration>1</Duration>
+                <Duration><![CDATA[00:00:00.529]]></Duration>
                 <Extension>
                     <Any>
                         <TestObject>
                             <Path>
                                 <Object>
                                     <Type>Web.Browser</Type>
-                                    <Name><![CDATA[Welcome: Mercury Tours]]></Name>
+                                    <Name><![CDATA[[Browser]]]></Name>
                                 </Object>
                             </Path>
                             <Operation>close</Operation>
@@ -964,11 +1102,11 @@
                             <Properties>
                                 <Property>
                                     <Name><![CDATA[type]]></Name>
-                                    <Value><![CDATA[Mozilla Firefox]]></Value>
+                                    <Value><![CDATA[Chrome]]></Value>
                                 </Property>
                                 <Property>
                                     <Name><![CDATA[version]]></Name>
-                                    <Value><![CDATA[54.0]]></Value>
+                                    <Value><![CDATA[67.0]]></Value>
                                 </Property>
                             </Properties>
                         </TestObject>
@@ -982,7 +1120,7 @@
                                 <Path>
                                     <Object>
                                         <Type>Web.Browser</Type>
-                                        <Name><![CDATA[Welcome: Mercury Tours]]></Name>
+                                        <Name><![CDATA[[Browser]]]></Name>
                                         <IconKey>Browser</IconKey>
                                     </Object>
                                 </Path>

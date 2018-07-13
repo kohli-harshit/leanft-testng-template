@@ -1,6 +1,6 @@
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
  
-<suite name="NewTours_Suite" verbose="2" parallel="methods" thread-count="1"> 
+<suite name="NewTours_Suite" verbose="2" parallel="methods" thread-count="1">
 
  <listeners>
 	<listener class-name="utils.TestNGListener"></listener>

@@ -26,7 +26,7 @@ public class BaseTest {
 	protected Browser browser;
 	private BrowserType bType;
 	
-	public static final Logger logger = Logger.getLogger("GLOBAL");
+	static final Logger logger = Logger.getLogger(BaseTest.class);
 	
 	@BeforeSuite(alwaysRun=true)
 	public void Start_Engine() throws Exception
